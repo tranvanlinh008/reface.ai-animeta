@@ -1,0 +1,14 @@
+@keyframes runslider {
+    form{
+        transform: translateX(0);
+    }
+    to{
+        transform: translateX(-1545px);
+    }
+}
+.runslider {
+    animation: runslider 35s linear infinite;
+}
+img {
+    max-width: none;
+}
