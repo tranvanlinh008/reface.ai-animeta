@@ -9,6 +9,12 @@
 .runslider {
     animation: runslider 35s linear infinite;
 }
-img {
-    max-width: none;
+
+*{
+    
+font-family: 'Manrope', sans-serif;
+
+}
+.font-new {
+    font-family: 'Unbounded', sans-serif;
 }
